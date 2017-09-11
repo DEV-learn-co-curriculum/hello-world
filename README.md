@@ -1,4 +1,4 @@
-## This is a new lesson -- take 2 
+## This is a new lesson -- take $$$$
 ## We updated this!
 
 1. Make some stuff
