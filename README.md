@@ -1,4 +1,5 @@
-## This is a new lesson
+## This is a new lesson -- take 3
+## We updated this!
 
 1. Make some stuff
 2. Do some stuff
